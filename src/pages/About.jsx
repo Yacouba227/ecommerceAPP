@@ -7,3 +7,5 @@ const About = () => {
 }
 
 export default About
+
+/* ceci est un commentaire */
